@@ -19,9 +19,9 @@ class Pdf extends Component {
         >
           <br />
           <a
-            href={require("../docs/ReactJS.pdf")}
+            href={require("../docs/prueba.pdf")}
             id="enlaceDescargarPdf"
-            download="ReactJS.pdf"
+            download="prueba.pdf"
           >
             Tu dispositivo no puede visualizar los PDF, da click aquí para
             descargarlo
